@@ -1,7 +1,7 @@
 # 📰 News Hive
 
 <p align="center">
-  <img src="https://your-image-link-here.png" alt="News Hive Logo" width="120"/>
+  <img src="https://News Logo.png" alt="News Hive Logo" width="120"/>
 </p>
 
 <p align="center">
