@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://News Logo.png" alt="News Hive Logo" width="120"/>
+  
 </p>
 
 <p align="center">
